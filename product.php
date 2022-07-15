@@ -42,10 +42,10 @@
         <div class="small-container">
             <div class="row">
                 <div class="col-5">
-                    <img src="images/Apan.png">
+                    <img src="images/qe.jpg">
                 </div>
                 <div class="col-5">
-                    <img src="images/jokejolly.png">
+                    <img src="images/qư.jpg">
                 </div>
                 <div class="col-5">
                     <img src="images/ha.jpg">
@@ -54,7 +54,7 @@
                     <img src="images/hh.jpg">
                 </div>
                 <div class="col-5">
-                    <img src="images/loz.png">
+                    <img src="images/qaq.jpg">
                 </div>
             </div>
         </div>
