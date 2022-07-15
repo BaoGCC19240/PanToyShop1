@@ -48,7 +48,7 @@
                     <img src="images/jokejolly.png">
                 </div>
                 <div class="col-5">
-                    <img src="images/ha.png">
+                    <img src="images/ha.jpg">
                 </div>
                 <div class="col-5">
                     <img src="images/marvel.png">
