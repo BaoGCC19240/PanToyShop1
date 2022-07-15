@@ -201,7 +201,7 @@ session_start();
                     <p>Download App for Android and ios mobile phone</p>
                     <div class="app-logo">
                         <img src="images/play-store.png">
-                        <img src="images/app-store.png">
+                        <img src="images/aq.jqp">
                     </div>
                 </div>
                 <div class="footer-col-2">
@@ -231,7 +231,7 @@ session_start();
                 </div>
             </div>
             <hr>
-            <p class="Copyright">Copyright 2020 - By Phan Chi Bao</p>
+            <p class="Copyright">Copyright 2020 - By Nguyen Thanh Duy</p>
         </div>
     </div>
     <!-- ------------------- js for toggle menu-------------- -->

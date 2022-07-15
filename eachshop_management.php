@@ -83,12 +83,12 @@
             }
             ?>      
         
-        <!--Nút Thêm mới , xóa tất cả-->
-        <div class="row" style="background-color:#FFF"><!--Nút chức nang-->
+         
+        <div class="row" style="background-color:#FFF">< 
             <div class="col-md-12">
             	
             </div>
-        </div><!--Nút chức nang-->
+        </div> 
  </form>
             </div>
 
