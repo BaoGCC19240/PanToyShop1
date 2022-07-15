@@ -51,7 +51,7 @@
                     <img src="images/ha.jpg">
                 </div>
                 <div class="col-5">
-                    <img src="images/marvel.png">
+                    <img src="images/hh.jpg">
                 </div>
                 <div class="col-5">
                     <img src="images/loz.png">
